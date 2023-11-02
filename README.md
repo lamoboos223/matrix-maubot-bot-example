@@ -56,9 +56,8 @@ mbc build webhook
 `docker cp <container-id>:/opt/*.mbp .`
 
 
-[TODO]
 ---
-## Build muabot from source code
+## [TODO] Build muabot from source code
 ```sh
 git clone git@github.com:maubot/maubot.git
 cd maubot
