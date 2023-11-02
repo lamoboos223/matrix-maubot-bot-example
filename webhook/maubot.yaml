@@ -1,0 +1,7 @@
+maubot: 0.0.1
+id: com.lab-lama.matrix.webhook
+version: "0.0.1"
+license: MIT
+modules:
+- webhook
+main_class: WebhookBot
