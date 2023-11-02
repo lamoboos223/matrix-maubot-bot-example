@@ -53,12 +53,10 @@ cd webhook-bot
 mbc build webhook
 ```
 # go outside the maubot container to copy the generated .mbp file
-docker cp <container-id>:/opt/*.mbp .
-```
+`docker cp <container-id>:/opt/*.mbp .`
 
 
-
-
+[TODO]
 ---
 ## Build muabot from source code
 ```sh
